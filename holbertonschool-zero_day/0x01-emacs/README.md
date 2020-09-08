@@ -1,1 +1,0 @@
-With this task we learned how to open, save, cut, paste, search, undo and exit EMACS.
