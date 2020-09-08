@@ -1,1 +1,1 @@
-open a file in emacs C-x C-f then type file name.
+To open a file from within EMACS use the command C-x C-f file name.
