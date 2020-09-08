@@ -1,1 +1,1 @@
-# holbertonschool-zero_day1
+With this project we learned about *GIT* and **GitHub**. Also we learned how to *pull*, *edit* and then *push* the project we are working ok.
